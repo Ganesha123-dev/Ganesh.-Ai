@@ -7,26 +7,29 @@
 ## 🚀 **LIVE DEMO & DIRECT ACCESS**
 
 ### 🌐 **Web Application**
-**Direct Link:** [https://ganesh-ai-working.onrender.com](https://ganesh-ai-working.onrender.com)
+**Direct Link:** [https://work-2-hdljrkalryfqtkhy.prod-runtime.all-hands.dev](https://work-2-hdljrkalryfqtkhy.prod-runtime.all-hands.dev)
 - Modern ChatGPT-like interface
-- Real-time AI responses
-- Instant earnings system
-- Mobile-friendly design
+- Real-time AI responses with working functions
+- Instant earnings system (₹0.05 per chat)
+- Mobile-friendly responsive design
+- All dashboard functions working
 
 ### 👨‍💼 **Admin Panel**
-**Direct Link:** [https://ganesh-ai-working.onrender.com/admin](https://ganesh-ai-working.onrender.com/admin)
+**Direct Link:** [https://work-2-hdljrkalryfqtkhy.prod-runtime.all-hands.dev/admin](https://work-2-hdljrkalryfqtkhy.prod-runtime.all-hands.dev/admin)
 - Username: `Admin`
-- Password: `12345`
-- Complete user management
-- Revenue analytics
-- System monitoring
+- Password: `admin123`
+- Complete user management system
+- Real-time revenue analytics
+- System monitoring and statistics
+- All admin functions working
 
 ### 📱 **Telegram Bot**
 **Bot Username:** [@GaneshAIWorkingBot](https://t.me/GaneshAIWorkingBot)
-- Instant AI responses
-- Earnings with every message
+- Instant AI responses with all commands working
+- Earnings with every message (₹0.05 each)
 - Real-time balance tracking
-- All commands working
+- All bot functions operational
+- /start, /help, /balance, /premium commands working
 
 ---
 
@@ -264,9 +267,9 @@ Have an idea? [Create an issue](https://github.com/amanjee7568-gif/ai_content_bo
 
 ## 🚀 **START EARNING TODAY!**
 
-[![Web App](https://img.shields.io/badge/🌐_Web_App-Visit_Now-blue?style=for-the-badge)](https://ai-content-bot-bppk.onrender.com)
-[![Telegram Bot](https://img.shields.io/badge/📱_Telegram_Bot-Start_Chat-green?style=for-the-badge)](https://t.me/ganeshaibot)
-[![Admin Panel](https://img.shields.io/badge/👨‍💼_Admin_Panel-Manage-red?style=for-the-badge)](https://ai-content-bot-bppk.onrender.com/admin)
+[![Web App](https://img.shields.io/badge/🌐_Web_App-Visit_Now-blue?style=for-the-badge)](https://work-2-hdljrkalryfqtkhy.prod-runtime.all-hands.dev)
+[![Telegram Bot](https://img.shields.io/badge/📱_Telegram_Bot-Start_Chat-green?style=for-the-badge)](https://t.me/GaneshAIWorkingBot)
+[![Admin Panel](https://img.shields.io/badge/👨‍💼_Admin_Panel-Manage-red?style=for-the-badge)](https://work-2-hdljrkalryfqtkhy.prod-runtime.all-hands.dev/admin)
 
 **Made with ❤️ for maximum earnings**
 
